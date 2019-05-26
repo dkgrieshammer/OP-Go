@@ -1,2 +1,2 @@
 # OP-Go
-A Portable Audio Interface based on Teensyboard to Record Teenage Engineering Gears on the Go (+ maybe some Raspberry Addon to save patches etc. later on)
+A Portable Audio Interface based on [Teensyboard](https://www.pjrc.com/store/teensy3_audio.html) to Record Teenage Engineering Gears on the Go (+ maybe some Raspberry-Pi addon later to save patches etc.)
